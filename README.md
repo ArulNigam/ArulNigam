@@ -12,5 +12,3 @@ some other things i’m proud of:
 - authored a [book on contrarian thinking](https://www.amazon.com/gp/product/B08LVGGWZP) that made amazon’s top ten political short reads
 - led a [100+ person organization](https://georgetownstudentcapital.com/) that raised $250k+ for startups and conducted due diligence for pe/vc firms ($12b+ collective aum)
 - chaired the supervisory committee of the [largest student-run financial institution](https://www.guasfcu.com/) ($20m+ in peak assets)
-
-let’s chat: [arul@nigam.com](mailto:arul@nigam.com)
