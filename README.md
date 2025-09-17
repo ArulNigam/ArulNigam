@@ -1,4 +1,4 @@
-hi, i'm [arul](https://www.linkedin.com/in/arul-nigam/). 
+hey, i'm [arul](https://www.linkedin.com/in/arul-nigam/). 
 
 i've worked on ai alignment at a [boutique defense prime](https://globalinfotek.com/), strategy at a [space weather startup](https://www.ensemblespacelabs.com/), and invested in semiconductors at a [hedge fund](https://point72.com/).
 
