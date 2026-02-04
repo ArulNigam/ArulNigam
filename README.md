@@ -16,4 +16,4 @@ Before that, I was in the Computer Systems Lab at [Thomas Jefferson High School 
 * Helped pass the bipartisan [FASTER Act](https://thehill.com/blogs/congress-blog/politics/546602-passage-of-faster-act-is-critical-for-food-allergy-community/) and create the [Congressional Food Allergy Research Caucus](https://www.foodallergy.org/media-room/fare-applauds-creation-congressional-food-allergy-research-caucus)
 * Authored a [book on contrarian thinking](https://www.amazon.com/gp/product/B08LVGGWZP) that made Amazon’s top ten political short reads
 
-I'm also a deal partner at [Boardy](https://www.boardy.ai/), the world's first AI-led venture fund. If you're building something cool, [reach out](https://www.linkedin.com/in/arul-nigam/)!
+I'm also a Deal Partner at [Boardy](https://www.boardy.ai/), the world's first AI-led venture fund. If you're building something cool, [reach out](https://www.linkedin.com/in/arul-nigam/)!
