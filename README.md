@@ -1,4 +1,4 @@
-i'm building crash-test dummies for ai at [Circuit Breaker Labs](https://www.circuitbreakerlabs.ai/). i'm also a deal partner at boardy, the world's first ai-led venture fund. if you're building, [reach out](https://www.linkedin.com/in/arul-nigam/)!
+i'm building crash-test dummies for ai at [Circuit Breaker Labs](https://www.circuitbreakerlabs.ai/). i'm also a deal partner at [Boardy](https://www.boardy.ai/), the world's first ai-led venture fund. if you're building, [reach out](https://www.linkedin.com/in/arul-nigam/)!
 
 previously, i developed ai-based graph analytics for tools for defense and intelligence applications at a [boutique prime](https://globalinfotek.com/), invested in semiconductors at a [hedge fund](https://point72.com/), and worked on strategy at a [space domain awareness startup](https://hyperios.com/).
 
