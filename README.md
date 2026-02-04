@@ -1,5 +1,7 @@
 hey, i'm [arul](https://www.linkedin.com/in/arul-nigam/). 
 
+i'm building crash-test dummies for ai at [circuit breaker labs](https://www.circuitbreakerlabs.ai/). 
+
 i've worked on ai alignment at a [boutique defense prime](https://globalinfotek.com/), strategy at a [space weather startup](https://www.ensemblespacelabs.com/), and invested in semiconductors at a [hedge fund](https://point72.com/).
 
 i studied operations & analytics + global business at [georgetown](https://www.georgetown.edu/), and ai at [thomas jefferson high school for science and technology](https://en.wikipedia.org/wiki/Thomas_Jefferson_High_School_for_Science_and_Technology).
